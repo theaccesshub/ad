@@ -22,7 +22,7 @@
   "author": "dthree",
   "license": "MIT",
   "dependencies": {
-    "activedirectory": "theaccesshub/activedirectory",
+    "activedirectory": "theaccesshub/node-activedirectory",
     "ldapjs": "^1.0.1",
     "lodash.orderby": "^4.6.0",
     "node-ssha256": "^0.1.1"
